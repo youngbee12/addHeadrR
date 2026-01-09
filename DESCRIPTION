@@ -1,0 +1,15 @@
+Package: addHeaderR
+Type: Package
+Title: Add Numbered Section Headers and Roxygen for RStudio
+Version: 0.1.0
+Authors@R:
+    person("Zhicheng", "Yang", role = c("aut", "cre"),
+           email = "your@email.com")
+Description:
+    RStudio addins for inserting numbered section headers and generating
+    roxygen2 documentation templates from selected function definitions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    rstudioapi
+RoxygenNote: 7.3.2

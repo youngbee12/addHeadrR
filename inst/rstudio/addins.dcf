@@ -1,0 +1,19 @@
+Name: Generate Roxygen From Selection
+Description: Generate roxygen2 template from selected function text
+Binding: generate_roxygen_from_selection
+Interactive: true
+
+Name: Insert Header Level 1
+Description: Insert a level 1 section header
+Binding: insert_header_level1
+Interactive: true
+
+Name: Insert Header Level 2
+Description: Insert a level 2 section header
+Binding: insert_header_level2
+Interactive: true
+
+Name: Insert Header Level 3
+Description: Insert a level 3 section header
+Binding: insert_header_level3
+Interactive: true
