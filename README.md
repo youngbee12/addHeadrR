@@ -9,7 +9,7 @@ Header + roxygen helpers for RStudio addins.
 ## Installation
 ```r
 install.packages("remote")
-remotes::install_github("youngbee12/addHeaderR")
+remotes::install_github("youngbee12/addHeadrR")
 ```
 
 ## Usage
